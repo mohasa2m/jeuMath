@@ -1,0 +1,15 @@
+C:\Users\megam\OneDrive\Bureau\projets_cs\Jeu_de_maths\Jeu_de_maths\bin\Debug\net6.0\Jeu_de_maths.exe
+C:\Users\megam\OneDrive\Bureau\projets_cs\Jeu_de_maths\Jeu_de_maths\bin\Debug\net6.0\Jeu_de_maths.deps.json
+C:\Users\megam\OneDrive\Bureau\projets_cs\Jeu_de_maths\Jeu_de_maths\bin\Debug\net6.0\Jeu_de_maths.runtimeconfig.json
+C:\Users\megam\OneDrive\Bureau\projets_cs\Jeu_de_maths\Jeu_de_maths\bin\Debug\net6.0\Jeu_de_maths.dll
+C:\Users\megam\OneDrive\Bureau\projets_cs\Jeu_de_maths\Jeu_de_maths\bin\Debug\net6.0\Jeu_de_maths.pdb
+C:\Users\megam\OneDrive\Bureau\projets_cs\Jeu_de_maths\Jeu_de_maths\obj\Debug\net6.0\Jeu_de_maths.csproj.AssemblyReference.cache
+C:\Users\megam\OneDrive\Bureau\projets_cs\Jeu_de_maths\Jeu_de_maths\obj\Debug\net6.0\Jeu_de_maths.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\megam\OneDrive\Bureau\projets_cs\Jeu_de_maths\Jeu_de_maths\obj\Debug\net6.0\Jeu_de_maths.AssemblyInfoInputs.cache
+C:\Users\megam\OneDrive\Bureau\projets_cs\Jeu_de_maths\Jeu_de_maths\obj\Debug\net6.0\Jeu_de_maths.AssemblyInfo.cs
+C:\Users\megam\OneDrive\Bureau\projets_cs\Jeu_de_maths\Jeu_de_maths\obj\Debug\net6.0\Jeu_de_maths.csproj.CoreCompileInputs.cache
+C:\Users\megam\OneDrive\Bureau\projets_cs\Jeu_de_maths\Jeu_de_maths\obj\Debug\net6.0\Jeu_de_maths.dll
+C:\Users\megam\OneDrive\Bureau\projets_cs\Jeu_de_maths\Jeu_de_maths\obj\Debug\net6.0\refint\Jeu_de_maths.dll
+C:\Users\megam\OneDrive\Bureau\projets_cs\Jeu_de_maths\Jeu_de_maths\obj\Debug\net6.0\Jeu_de_maths.pdb
+C:\Users\megam\OneDrive\Bureau\projets_cs\Jeu_de_maths\Jeu_de_maths\obj\Debug\net6.0\Jeu_de_maths.genruntimeconfig.cache
+C:\Users\megam\OneDrive\Bureau\projets_cs\Jeu_de_maths\Jeu_de_maths\obj\Debug\net6.0\ref\Jeu_de_maths.dll
